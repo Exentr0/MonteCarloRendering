@@ -27,6 +27,7 @@ This project is actively under development. Upcoming features include:
 - **Importance Sampling:** Improving efficiency of global illumination by sampling directions based on the BRDF.
 - **Energy Conservation:** Ensuring that light interactions conserve energy for physically accurate results.
 - **GPU Acceleration:** Porting ray tracing computations to run on GPU for significant performance improvements.
+- **Efficient Space Partitioning:** Implementing acceleration structures such as Bounding Volume Hierarchies (BVH) and KD-trees to optimize ray-object intersection tests.
 
 ## Build & Run
 
